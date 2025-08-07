@@ -1,1 +1,1 @@
-# Reinforcement-Learning-CPU-scheduler-
+This Reinforcement Learning (RL) CPU Scheduler uses Q-learning to optimize process scheduling by minimizing average waiting time. It learns through trial and error over multiple episodes, outperforming traditional algorithms like Round Robin and Shortest Job First. The scheduler adapts to varying workloads and demonstrates improved efficiency through experience.
